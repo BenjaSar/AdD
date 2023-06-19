@@ -2,8 +2,8 @@
 
 #### Authors
 Karen Raczkowski <br>
-Juan Iribet <br>
-FS <br>
+Juan Ignacio Ribet <br>
+Fabian Sarmiento <br>
 2023
 
 ![footer](doc/LogoFooter.png)
